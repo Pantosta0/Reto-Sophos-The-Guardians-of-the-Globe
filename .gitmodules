@@ -1,0 +1,3 @@
+[submodule "TheGuardiansOfTheGlobeAPI"]
+	path = TheGuardiansOfTheGlobeAPI
+	url = https://github.com/Pantosta0/TheGuardiansOfTheGlobeAPI.git
