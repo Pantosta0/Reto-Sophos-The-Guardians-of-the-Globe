@@ -6,5 +6,5 @@ Realizado usando .NET 6
 - La documentación se encuentra en [/Documentation](Documentation/)
 ## ¿Cómo buildear la aplicación?
 La aplicación se encuentra **dockerizada**, así que requiere que el servicio de docker o el cliente de [docker desktop](https://www.docker.com/products/docker-desktop/) estén corriendo.
-Para desplegar la aplicación usaremos el siguiente comando en la carpeta que contiene el archivo `docker-compose.yml`:
+Para desplegar la aplicación nos ubicamos en la carpeta que contiene el archivo `docker-compose.yml` y ejecutamos el siguiente comando:
 ```docker-compose up```
